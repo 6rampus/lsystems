@@ -1,0 +1,6 @@
+2
+4
+90
+-r
+l->ll-r-r+l+l-r-rl+r+llr-l+r+ll+r-lr-r-l+l+rr-
+r->+ll-r-r+l+lr+l-rr-l-r+lrr-l-rl+l+r-r-l+l+rr
